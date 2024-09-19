@@ -1,3 +1,1 @@
-print('salom')
-print("solam")
-print("salom 2")
+print("salom")
